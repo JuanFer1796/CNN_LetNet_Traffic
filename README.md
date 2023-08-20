@@ -42,7 +42,7 @@ Este repositorio contiene un proyecto de Machine Learning centrado en la clasifi
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias mencionadas en "Herramientas y Librerías Utilizadas".
-3. Ejecuta el notebook `Laboratorio_2.ipynb` en un entorno Jupyter para seguir el proceso completo desde la carga de datos hasta la evaluación del modelo.
+3. Ejecuta el notebook `CNN_LetNet_TRAFFIC.ipynb` en un entorno Jupyter para seguir el proceso completo desde la carga de datos hasta la evaluación del modelo.
 
 ## Contribuciones
 
